@@ -1,0 +1,9 @@
+env
+.env
+drivers/*driver
+screenshots/*.png
+.vscode
+__pycache__
+test.py
+
+

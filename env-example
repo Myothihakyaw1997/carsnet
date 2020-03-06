@@ -1,0 +1,43 @@
+# Driver
+CHROMEDRIVER = './drivers/chromedriver'
+
+# Database
+HOST="localhost"
+DB_USER=""
+DB_PASSWORD=""
+DB_DATABASE=""
+DB_AUTH_PLUGIN="caching_sha2_password"
+
+# Database Name
+DB_NAME_PAGES = 'fb_pages'
+DB_NAME_GROUPS = 'fb_groups'
+DB_NAME_SEARCHES = 'fb_searches'
+DB_NAME_COMMENTS = 'fb_comments'
+
+# Database Name Image
+DB_NAME_PAGES_IMG = 'fb_pages_img'
+DB_NAME_GROUPS_IMG = 'fb_groups_img'
+DB_NAME_SEARCHES_IMG = 'fb_searches_img'
+
+# Database Name Keywords
+DB_NAME_PAGES_KEYWORDS = 'pages_keywords'
+DB_NAME_GROUPS_KEYWORDS = 'groups_keywords'
+DB_NAME_SEARCHES_KEYWORDS = 'searches_keywords'
+
+# Email
+EMAIL = ""
+PASSWORD = ""
+
+# Firebase
+API_KEY =''
+AUTH_DOMAIN = ''
+PROJECT_ID = ''
+STORAGE_BUCKET = ''
+MESSAGE_SENDER_ID = ''
+APP_ID = ''
+MEASURE_ID = ''
+DATABASE_URL = ''
+
+# URL
+POST_URL = ''
+
